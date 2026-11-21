@@ -4,6 +4,7 @@ git config --list
 <img width="842" height="614" alt="image" src="https://github.com/user-attachments/assets/b150170d-4da2-4756-9bb5-be121c2521b2" />
 
 git remote -v
+
 <img width="669" height="93" alt="image" src="https://github.com/user-attachments/assets/d1e4f425-2730-4259-83e2-fd61a0f7012b" />
 
 
